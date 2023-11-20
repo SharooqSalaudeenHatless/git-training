@@ -1,5 +1,5 @@
-print("Hello World")
+def main():
+    print("Hello, this is the main file!")
 
-
-print("This is a test branch feature")
-print("This is a test branch feature 2")
+if __name__ == "__main__":
+    main()
